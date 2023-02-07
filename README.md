@@ -6,7 +6,7 @@
 🌱 I’m currently learning **React**
 </p>
 <p align="center">
-📫 How to reach me **96thehag@gmail.com**
+📫 Reach me at **96thehag@gmail.com**
 </p>
 
 <br>
